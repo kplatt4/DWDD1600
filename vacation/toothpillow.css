@@ -1,0 +1,242 @@
+header {
+    background-color:rgb(222, 249, 255);
+    padding:;
+    font-size: 25px;
+    display: flex;
+    border-radius: 25px
+}
+
+header p{
+color:rgb(243, 206, 245); 
+text-align: center    
+}
+header h1{
+color:rgb(243, 206, 245); 
+text-align: center    
+}
+header figure{
+align-content:center;   
+    
+}
+
+nav{
+background-color: rgb(243, 206, 245); 
+border-radius: 25px;   
+
+    
+}
+nav ul{
+    margin:0;
+    padding:10px;
+    list-style-type: none;
+    display: flex;
+}
+nav a {
+    display: block;
+    padding:2rem;
+    text-decoration:none;
+    font-size: 1.5rem;
+    color: rgb(222, 249, 255);
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+main figure :hover{
+box-shadow: 5px 2.5px;    
+    
+}
+
+   
+
+nav ul li a:hover {
+  color: white;
+font-size: 2rem;    
+    
+}
+
+main {
+padding:.5rem 1px; 
+background-color: none;    
+    
+}
+
+div.pics{
+display: flex;
+flex-wrap: wrap;    
+    
+}
+
+
+
+main h1{
+    color:rgb(243, 206, 245);
+}
+main h2{
+    color:rgb(243, 206, 245);
+    margin-bottom: .2rem;
+    text-align: left;
+    padding-top: 2rem;
+}
+
+    
+}
+main p{
+    margin: 0;
+    color: black;
+    font-size: 30px;
+    padding-top: 10rem;
+}
+main ol{
+    padding:.5rem 30px;
+    background-color:azure;
+}
+
+
+
+
+
+}
+
+main ul{
+    list-style-type: ;
+    color:#024873;
+}
+    main ul li {    
+    line-height: 125%;
+    margin-bottom: .5rem;
+    font-size:1rem
+}
+main strong{
+    font-weight: 700;
+    color: black;
+}
+main em{
+    font-weight: 300;
+}
+main address{
+    font-style: normal;
+    background-color:#F2b705;
+    padding: .5rem;
+    border-radius: 10px;
+    border: 1px solid #024873;
+    width: 200px;
+}
+
+main p{
+color: black;
+padding-left: 2rem;    
+}
+main a{
+color: dodgerblue;
+    
+    
+}
+
+
+main a:hover{
+color: royalblue;
+}
+div.gallery{
+display:flex;
+flex-wrap: wrap  
+
+    
+    
+}
+div.gallery figure{
+    margin: .5rem 2% 0 0;
+    text-align: center
+}
+div.gallery figcaption {
+display:flex;
+flex-wrap: .8rem;
+color:#F2b705;
+text-align: center;    
+}
+
+
+.myForm [type=submit] {
+background-color:#024873;     
+border: none;    
+padding: 1rem 2rem;
+border-radius: 10px;
+color:white;
+margin: 1rem 0 0 1vw;
+}
+.myForm label checkbox{
+border: 5px solid; 
+padding-left: 3px;    
+}
+
+.myForm textarea{
+height: 8rem;
+border: solid 3px;
+margin-top: 3px; 
+border-color: rgb(243, 206, 245); 
+margin-top: 2rem;    
+}
+
+
+.myForm fieldset{
+border: rgb(243, 206, 245);   
+border: rgb(243, 206, 245);   
+ border: 5px solid;   
+}
+
+table.our-activities{
+width:80%;
+border-collapse: collapse;
+margin-left: auto;
+margin-right: auto;
+}
+table.our-activities th {
+background-color:c  
+color:rgb(222, 249, 255); 
+padding: .5rem 2vw;
+text-align:center;    
+    
+}
+table.our-activities td{
+color:black;
+padding: .4rem 2vw;    
+}
+table.our-activities tr:nth-child(odd){
+background-color: #f7f7f7;   
+}
+table.our-activities tr:hover {
+background-color: rgba(84,105,31,0.2);     
+}
+main iframe{
+padding-bottom: 2rem;  
+padding-top:2rem;    
+    
+}
+main table {
+    
+    
+}
+
+main label {
+padding-top: 2rem;    
+    
+}
+
+
+
+
+
+footer{
+    text-align: center;
+    padding: 1rem 0;
+    font-size:,8rem;
+    color: #333;
+
+}
+footer p{
+    margin:0;
+    font-size:.8rem;
+    color: #333;
+    letter-spacing: 3px;
+    text-align: center;
+    margin top: 1rem;
+}
